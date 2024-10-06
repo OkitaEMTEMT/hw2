@@ -16,11 +16,10 @@ gantt
   程式測試 :a6, after a4, 30d
   撰寫使用手冊 :a7, after a5, 25d
   轉換檔案 :a8, after a5, 20d
-  系統測試 :a9, after a6, 25d
-  使用者訓練 :a10, after a7, 25d
+  系統測試 :a9, after a6, 25d  
   使用者訓練 :a10, after a8, 25d
   使用者測試 :a11, after a9, 25d
-  使用者測試 :a11, after a10, 25d
+
 
 
 
